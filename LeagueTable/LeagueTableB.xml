@@ -1,0 +1,124 @@
+<LeagueTable>
+<LeagueTeams>
+<LeagueTeam>
+<QualifiedStatus>
+Q
+</QualifiedStatus>
+<TeamsName>ODISHA</TeamsName>
+<Played>
+ 3 
+</Played>
+<Won>
+ 2 
+</Won>
+<Lost>
+ 0 
+</Lost>
+<Drawn>
+ 1 
+</Drawn>
+<For>
+ 6 
+</For>
+<Against>
+ 2 
+</Against>
+<GD>
+ 4 
+</GD>
+<Points>
+ 7 
+</Points>
+</LeagueTeam>
+<LeagueTeam>
+<QualifiedStatus>
+
+</QualifiedStatus>
+<TeamsName>HYDERABAD</TeamsName>
+<Played>
+ 3 
+</Played>
+<Won>
+ 1 
+</Won>
+<Lost>
+ 1 
+</Lost>
+<Drawn>
+ 1 
+</Drawn>
+<For>
+ 6 
+</For>
+<Against>
+ 6 
+</Against>
+<GD>
+ 0 
+</GD>
+<Points>
+ 4 
+</Points>
+</LeagueTeam>
+<LeagueTeam>
+<QualifiedStatus>
+
+</QualifiedStatus>
+<TeamsName>EAST BENGAL</TeamsName>
+<Played>
+ 3 
+</Played>
+<Won>
+ 0 
+</Won>
+<Lost>
+ 0 
+</Lost>
+<Drawn>
+ 3 
+</Drawn>
+<For>
+ 6 
+</For>
+<Against>
+ 6 
+</Against>
+<GD>
+ 0 
+</GD>
+<Points>
+ 3 
+</Points>
+</LeagueTeam>
+<LeagueTeam>
+<QualifiedStatus>
+
+</QualifiedStatus>
+<TeamsName>AIZAWL</TeamsName>
+<Played>
+ 3 
+</Played>
+<Won>
+ 0 
+</Won>
+<Lost>
+ 2 
+</Lost>
+<Drawn>
+ 1 
+</Drawn>
+<For>
+ 3 
+</For>
+<Against>
+ 7 
+</Against>
+<GD>
+-4 
+</GD>
+<Points>
+ 1 
+</Points>
+</LeagueTeam>
+</LeagueTeams>
+</LeagueTable>
